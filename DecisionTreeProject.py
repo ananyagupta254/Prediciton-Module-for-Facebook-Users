@@ -1,4 +1,6 @@
-"""Code to make prediction for 20 percent of new Facebook users on the basis of 80 percent of dataset having features of existing Facebook users extracted from Weka website which creates the Decision tree once dataset is uploaded"""
+"""Code to make prediction for 20 percent of new Facebook users on the basis of 80 percent of dataset having features of existing 
+Facebook users extracted from Weka website which creates the Decision tree once dataset is uploaded 
+@author: A.Gupta, S.Jeffcoat, J.Morrison, J.Jones"""
 
 class Decision_Tree:
   """code to make prediction about new FB users' interest on the basis of given data"""
